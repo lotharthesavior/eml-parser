@@ -1,0 +1,7 @@
+{
+    "require": {
+        "php-mime-mail-parser/php-mime-mail-parser": "^6.0",
+        "dompdf/dompdf": "^0.8.6",
+        "spatie/browsershot": "^3.40"
+    }
+}
