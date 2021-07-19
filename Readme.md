@@ -1,6 +1,6 @@
 # Email file parser to HTML or PDF
 
-This command line file converts email content into **html ** or **pdf**.
+This command line file converts email content into **html** or **pdf**.
 
 
 
@@ -22,7 +22,7 @@ To use this tool just run the following from inside the directory:
 php parse-email.php {pdf|html}
 ```
 
-The files to be processed must be in the directory `./emails` and the output will be places in the directory `./output`.
+The files to be processed must be in the directory `./emails` and the output will be placed in the directory `./output`.
 
 
 
